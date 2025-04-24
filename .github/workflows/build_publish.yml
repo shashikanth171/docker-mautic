@@ -18,6 +18,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
+  IMAGE_NAME: shashikanth171/mautic-cache
 
 jobs:
   build-and-push-image:
